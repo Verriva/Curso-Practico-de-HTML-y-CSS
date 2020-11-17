@@ -1,0 +1,16 @@
+.main-nav {
+    text-align: right;
+    list-style: none;
+}
+
+.profile-logo {
+    border-radius: 50%;
+}
+
+.list-item {
+    display: inline-block;
+}
+
+main {
+    text-align: center;
+}
